@@ -1,5 +1,3 @@
-const console = require("node:console");
-
 function launchBrowser(browserName) {
     if (browserName === "Chrome") {
         console.log("Launching Chrome");
